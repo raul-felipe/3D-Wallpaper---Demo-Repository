@@ -5,4 +5,4 @@ With 3D wallpaper you can set and interact with your favorite 3d character on yo
 ## Demonstration
 
 
-![3D Wallpaper](https://github.com/user-attachments/assets/25470771-fe60-4906-ad9e-58609b24df8a)
+![3DWallpaper-S](https://github.com/user-attachments/assets/f2fc8959-db3a-4ba1-9d58-9b4b846d9ccd)
